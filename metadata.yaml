@@ -15,5 +15,5 @@
 homepage: "https://openmost.io"
 documentation: "https://github.com/openmost/gtm-tag-template-matomo-goal"
 versions:
-  - sha: 045a86ff6c1e5a916188f0419475924c97950702
+  - sha: b999b96fd4c307f78f4e97c60f749839007be2c4
     changeNotes: Initial Version
