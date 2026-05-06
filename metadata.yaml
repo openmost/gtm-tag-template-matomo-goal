@@ -12,7 +12,7 @@
 # See the License for the specific language governing permissions and
 # limitations under the License.
 
-homepage: "https://openmost.io"
+homepage: "https://openmost.com"
 documentation: "https://github.com/openmost/gtm-tag-template-matomo-goal"
 versions:
   - sha: b999b96fd4c307f78f4e97c60f749839007be2c4
